@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1
 
 MAINTAINER hikachan sadayuki-matsuno
 
